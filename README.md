@@ -36,6 +36,8 @@ git clone https://github.com/quangtaita/CA-YOLO-IRT.git
 cd CA-YOLO-IRT
 pip install -r requirements.txt
 
+
+---
 ## **License and Attribution**
 
 This project is a modified version of the [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) repository. The original YOLOv5 code is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
