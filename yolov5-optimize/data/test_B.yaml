@@ -1,0 +1,8 @@
+train: H:\TAI\train_Yolo\improved-yolov5n\yolov5-optimize\data\train  
+val: H:\TAI\train_Yolo\improved-yolov5n\yolov5-optimize\data\val  
+test: H:\TAI\train_Yolo\improved-yolov5n\yolov5-optimize\data\testB
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Delamination' ]

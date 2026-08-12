@@ -1,0 +1,8 @@
+train: H:\TAI\train_Yolo\yolov8-custom\data\train  
+val: H:\TAI\train_Yolo\yolov8-custom\data\val  
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Delamination' ]
