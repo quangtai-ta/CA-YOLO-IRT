@@ -1,6 +1,6 @@
 # CA-YOLO-IRT
 
-**CA-YOLO-IRT**: A lightweight thermographic detector for automated subsurface concrete defect detection using infrared thermography.
+**CA-YOLO-IRT: Lightweight coordinate-attention deep learning for robust subsurface concrete defect detection using infrared thermography**.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This repository contains the official implementation of **CA-YOLO-IRT**, a lightweight YOLOv5-based model with Coordinate Attention for subsurface concrete defect detection using infrared thermography (IRT).
 
-The related manuscript entitled *"CA-YOLO-IRT: Lightweight coordinate-attention deep learning for robust subsurface concrete defect detection using infrared thermography"* .
+The related manuscript entitled *"CA-YOLO-IRT: Lightweight coordinate-attention deep learning for robust subsurface concrete defect detection using infrared thermography" is under review* .
 ---
 
 ## Key Features
