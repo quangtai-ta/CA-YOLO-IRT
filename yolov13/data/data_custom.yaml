@@ -1,0 +1,8 @@
+train: H:\TAI\train_Yolo\yolov13\yolov13-main\ultralytics\data\train  
+val: H:\TAI\train_Yolo\yolov13\yolov13-main\ultralytics\data\val  
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Delamination' ]

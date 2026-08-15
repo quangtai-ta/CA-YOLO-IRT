@@ -1,0 +1,8 @@
+train: H:\TAI\train_Yolo\yolo26\data\train\images
+val: H:\TAI\train_Yolo\yolo26\data\val\images
+# test: H:\TAI\train_Yolo\yolov5\yolov5-master\data\test
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Delamination' ]
